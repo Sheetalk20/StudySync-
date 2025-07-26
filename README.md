@@ -1,11 +1,11 @@
-# 📚 StudySync
+📚 StudySync
 
-**StudySync** is a modern, responsive, and clean landing page built using **HTML5** and **CSS3**.  
+StudySync is a modern, responsive, and clean landing page built using HTML5 and CSS3.  
 It is designed for educational platforms, online learning apps, or coaching websites that want a sleek and engaging web presence.
 
 ---
 
-## ✨ Features
+✨ Features
 
 - 📱 Fully responsive design (works on mobile, tablet & desktop)
 - 🎨 Clean and minimalistic UI
@@ -15,7 +15,7 @@ It is designed for educational platforms, online learning apps, or coaching webs
 
 ---
 
-## 📂 Tech Stack
+📂 Tech Stack
 
 | Language | Description        |
 |----------|--------------------|
